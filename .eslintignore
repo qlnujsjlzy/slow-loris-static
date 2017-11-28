@@ -1,2 +1,3 @@
+src/components/routers/*.vue
 build/*.js
 config/*.js
